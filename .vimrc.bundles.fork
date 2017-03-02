@@ -1,11 +1,11 @@
-# Javascript
+" Javascript
 UnBundle 'briancollins/vim-jst'
 UnBundle 'kchmck/vim-coffee-script'
 
-# HTML
+" HTML
 UnBundle 'tpope/vim-haml'
 
-# Misc
+" Misc
 UnBundle 'rust-lang/rust.vim'
 UnBundle 'saltstack/salt-vim'
 UnBundle 'tpope/vim-cucumber'
