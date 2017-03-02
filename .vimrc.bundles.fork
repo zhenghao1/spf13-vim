@@ -1,1 +1,13 @@
-UnBundle 'pythoncomplete'
+# Javascript
+UnBundle 'briancollins/vim-jst'
+UnBundle 'kchmck/vim-coffee-script'
+
+# HTML
+UnBundle 'tpope/vim-haml'
+
+# Misc
+UnBundle 'rust-lang/rust.vim'
+UnBundle 'saltstack/salt-vim'
+UnBundle 'tpope/vim-cucumber'
+UnBundle 'quentindecock/vim-cucumber-align-pipes'
+UnBundle 'cespare/vim-toml'
