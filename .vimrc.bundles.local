@@ -1,0 +1,2 @@
+Bundle 'guns/vim-clojure-static'
+Bundle 'kien/rainbow_parentheses'
